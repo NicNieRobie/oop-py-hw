@@ -1,0 +1,36 @@
+Container contains 19 elements.
+1: This is a train. Speed: 444, distance to destination: 1104.0, time to distance: 2.49, car amount: 9
+2: This is a plane. Speed: 429, distance to destination: 1185.0, time to distance: 2.76, maximum flight distance: 748, capacity: 80
+3: This is a ship. Speed: 521, distance to destination: 1725.0, time to distance: 3.31, ship type: tanker, displacement: 3586
+4: This is a plane. Speed: 523, distance to destination: 925.0, time to distance: 1.77, maximum flight distance: 4339, capacity: 296
+5: This is a train. Speed: 145, distance to destination: 2526.0, time to distance: 17.42, car amount: 14
+6: This is a ship. Speed: 252, distance to destination: 2381.0, time to distance: 9.45, ship type: tanker, displacement: 7605
+7: This is a plane. Speed: 358, distance to destination: 1057.0, time to distance: 2.95, maximum flight distance: 6520, capacity: 228
+8: This is a plane. Speed: 441, distance to destination: 782.0, time to distance: 1.77, maximum flight distance: 4721, capacity: 260
+9: This is a ship. Speed: 439, distance to destination: 1987.0, time to distance: 4.53, ship type: liner, displacement: 8814
+10: This is a plane. Speed: 288, distance to destination: 1000.0, time to distance: 3.47, maximum flight distance: 1431, capacity: 140
+11: This is a plane. Speed: 699, distance to destination: 2506.0, time to distance: 3.59, maximum flight distance: 1145, capacity: 103
+12: This is a ship. Speed: 453, distance to destination: 1456.0, time to distance: 3.21, ship type: tanker, displacement: 14523
+13: This is a ship. Speed: 690, distance to destination: 2561.0, time to distance: 3.71, ship type: tugboat, displacement: 4533
+14: This is a ship. Speed: 339, distance to destination: 618.0, time to distance: 1.82, ship type: tugboat, displacement: 14056
+15: This is a train. Speed: 133, distance to destination: 2151.0, time to distance: 16.17, car amount: 15
+16: This is a ship. Speed: 178, distance to destination: 1425.0, time to distance: 8.01, ship type: tanker, displacement: 3865
+17: This is a plane. Speed: 364, distance to destination: 567.0, time to distance: 1.56, maximum flight distance: 1075, capacity: 64
+18: This is a train. Speed: 520, distance to destination: 2565.0, time to distance: 4.93, car amount: 11
+19: This is a train. Speed: 170, distance to destination: 1890.0, time to distance: 11.12, car amount: 14
+
+
+After the function call:
+Container contains 12 elements.
+1: This is a plane. Speed: 429, distance to destination: 1185.0, time to distance: 2.76, maximum flight distance: 748, capacity: 80
+2: This is a plane. Speed: 523, distance to destination: 925.0, time to distance: 1.77, maximum flight distance: 4339, capacity: 296
+3: This is a train. Speed: 145, distance to destination: 2526.0, time to distance: 17.42, car amount: 14
+4: This is a ship. Speed: 252, distance to destination: 2381.0, time to distance: 9.45, ship type: tanker, displacement: 7605
+5: This is a plane. Speed: 441, distance to destination: 782.0, time to distance: 1.77, maximum flight distance: 4721, capacity: 260
+6: This is a plane. Speed: 288, distance to destination: 1000.0, time to distance: 3.47, maximum flight distance: 1431, capacity: 140
+7: This is a ship. Speed: 453, distance to destination: 1456.0, time to distance: 3.21, ship type: tanker, displacement: 14523
+8: This is a ship. Speed: 339, distance to destination: 618.0, time to distance: 1.82, ship type: tugboat, displacement: 14056
+9: This is a train. Speed: 133, distance to destination: 2151.0, time to distance: 16.17, car amount: 15
+10: This is a ship. Speed: 178, distance to destination: 1425.0, time to distance: 8.01, ship type: tanker, displacement: 3865
+11: This is a train. Speed: 520, distance to destination: 2565.0, time to distance: 4.93, car amount: 11
+12: This is a train. Speed: 170, distance to destination: 1890.0, time to distance: 11.12, car amount: 14
